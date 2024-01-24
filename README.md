@@ -4,11 +4,13 @@ About this APP:
 This is how the app will look like. We can query in many languages but it will find the meaningful text from the Swedish dataset using the semantic similarity.
 
 **Tools Used:**
+
+
 ![weaviate-logo-3d_smal](https://github.com/rickystanley76/weaviate-multilingual-hybrid-search/assets/1774630/d23447ea-dda2-4291-97dd-8e799a11c6da)
 ![docker_small](https://github.com/rickystanley76/weaviate-multilingual-hybrid-search/assets/1774630/5b75931a-eb8e-4d27-8b54-38cff36ee4fb)
 ![streamlit_small](https://github.com/rickystanley76/weaviate-multilingual-hybrid-search/assets/1774630/47f638cd-1c91-4741-8d75-5a955efe4323)
 
-Features:
+**Features:**
 
 **Comprehensive Search Capabilities:**
     The application provides users with robust search functionality, allowing them to explore historical data by entering a query-to-question answer dataset having around 10K entries. This powerful feature facilitates efficient data retrieval, enabling users to pinpoint relevant information swiftly.
