@@ -20,9 +20,17 @@ Python-Powered Front-End Application:
 
 How to Install:
 Prerequisites:
-- Install docker desktop (to install the weaviate vector database in your local machine)
+- Install docker desktop (to install the weaviate vector database later in your local machine)
 
 Installation:
 1. clone the repo:
-2. 
+   https://github.com/rickystanley76/weaviate-multilingual-hybrid-search.git and then change to directory by using
+   cd weaviate-multilingual-hybrid-search
+2. Install required libraries:
+   pip install -r requirements.txt
+3. Run docker compose to install the weaviate in local macihine:
+   docker compose up -d
+4. Importing the CSV data to the weaviate database:
+   python import.py (it may take longer time as the CSV has 10k records, embedding those may take time, if needed you can delete some records and test)
+
   
