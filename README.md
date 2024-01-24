@@ -30,8 +30,8 @@ This is how the app will look like. We can query in many languages but it will f
 **Python-Powered Front-End Application:**
     Our front-end application is developed using Python, harnessing the language's versatility and ease of use. The user-friendly interface ensures a seamless experience, allowing users to interact with the application effortlessly.
 
-How to Install:
-Prerequisites:
+**How to Install:**
+**Prerequisites:**
 - Install docker desktop (to install the weaviate vector database later in your local machine)
 
 Installation:
