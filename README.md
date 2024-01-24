@@ -7,7 +7,7 @@ Keyword, Semantic, and Hybrid Search:
     Users can harness the power of keyword, semantic, and hybrid searches to refine their queries. This multi-faceted search approach ensures a nuanced exploration of the machine failures data, enhancing the precision of results.
 
 Intuitive Presentation in a Tabular Format:
-    Upon successful matching of the user's query with the data stored in the database, the application presents the results in a table format. The results are ordered by highest similarity, providing users with a clear and organized overview of relevant information.
+    Upon successful matching of the user's query with the data stored in the database, the application presents the results in a table format. The results are ordered by the highest similarity, providing users with a clear and organized overview of relevant information.
 
 State-of-the-Art SBERT Model:
     To accomplish advanced text embeddings, we have implemented the cutting-edge Sentence-BERT (SBERT) model. This state-of-the-art model enables the conversion of textual data into a structured format, facilitating efficient comparison and analysis.
@@ -15,9 +15,14 @@ State-of-the-Art SBERT Model:
 Open Source Vector Database:
     We have adopted an open-source vector database to store the embedded data securely. This ensures scalability, flexibility, and accessibility of the stored information.
 
-    Python-Powered Front-End Application:
+Python-Powered Front-End Application:
     Our front-end application is developed using Python, harnessing the language's versatility and ease of use. The user-friendly interface ensures a seamless experience, allowing users to interact with the application effortlessly. ''')
 
 How to Install:
 Prerequisites:
-- Install docker 
+- Install docker desktop (to install the weaviate vector database in your local machine)
+
+Installation:
+1. clone the repo:
+2. 
+  
