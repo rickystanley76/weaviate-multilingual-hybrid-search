@@ -1,6 +1,7 @@
 About this APP: 
+
 Comprehensive Search Capabilities:
-    The application provides users with a robust search functionality, allowing them to explore historical data by entering a 'problem description.' This powerful feature facilitates efficient data retrieval, enabling users to pinpoint relevant information swiftly.
+    The application provides users with robust search functionality, allowing them to explore historical data by entering a query-to-question answer dataset having around 10K entries. This powerful feature facilitates efficient data retrieval, enabling users to pinpoint relevant information swiftly.
 
     Keyword, Semantic, and Hybrid Search:
     Users can harness the power of keyword, semantic, and hybrid searches to refine their queries. This multi-faceted search approach ensures a nuanced exploration of the machine failures data, enhancing the precision of results.
