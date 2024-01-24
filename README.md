@@ -23,6 +23,12 @@ Features:
 **Python-Powered Front-End Application:**
     Our front-end application is developed using Python, harnessing the language's versatility and ease of use. The user-friendly interface ensures a seamless experience, allowing users to interact with the application effortlessly.
 
+**Tools Used:**
+![weaviate-logo-3d_smal](https://github.com/rickystanley76/weaviate-multilingual-hybrid-search/assets/1774630/d23447ea-dda2-4291-97dd-8e799a11c6da)
+![docker_small](https://github.com/rickystanley76/weaviate-multilingual-hybrid-search/assets/1774630/5b75931a-eb8e-4d27-8b54-38cff36ee4fb)
+![streamlit_small](https://github.com/rickystanley76/weaviate-multilingual-hybrid-search/assets/1774630/47f638cd-1c91-4741-8d75-5a955efe4323)
+
+
 How to Install:
 Prerequisites:
 - Install docker desktop (to install the weaviate vector database later in your local machine)
